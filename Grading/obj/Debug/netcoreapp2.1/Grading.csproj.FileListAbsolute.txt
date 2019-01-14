@@ -1,0 +1,11 @@
+C:\Users\Ronad\source\repos\Grading\Grading\bin\Debug\netcoreapp2.1\Grading.deps.json
+C:\Users\Ronad\source\repos\Grading\Grading\bin\Debug\netcoreapp2.1\Grading.runtimeconfig.json
+C:\Users\Ronad\source\repos\Grading\Grading\bin\Debug\netcoreapp2.1\Grading.runtimeconfig.dev.json
+C:\Users\Ronad\source\repos\Grading\Grading\bin\Debug\netcoreapp2.1\Grading.dll
+C:\Users\Ronad\source\repos\Grading\Grading\bin\Debug\netcoreapp2.1\Grading.pdb
+C:\Users\Ronad\source\repos\Grading\Grading\obj\Debug\netcoreapp2.1\Grading.csproj.CoreCompileInputs.cache
+C:\Users\Ronad\source\repos\Grading\Grading\obj\Debug\netcoreapp2.1\Grading.AssemblyInfoInputs.cache
+C:\Users\Ronad\source\repos\Grading\Grading\obj\Debug\netcoreapp2.1\Grading.AssemblyInfo.cs
+C:\Users\Ronad\source\repos\Grading\Grading\obj\Debug\netcoreapp2.1\Grading.dll
+C:\Users\Ronad\source\repos\Grading\Grading\obj\Debug\netcoreapp2.1\Grading.pdb
+C:\Users\Ronad\source\repos\Grading\Grading\obj\Debug\netcoreapp2.1\Grading.csprojAssemblyReference.cache
