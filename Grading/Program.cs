@@ -18,8 +18,6 @@ namespace Grading
 			int.TryParse(Console.ReadLine(), out score);
 
 
-			Console.WriteLine();
-
 			if (score == 100)
 			{
 				Console.WriteLine("A! Perfect score!");
