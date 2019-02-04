@@ -8,7 +8,7 @@ namespace Grading
 		static void Main()
 		{
 
-
+			Console.WriteLine("Newer stuff");
 
 
 			Console.WriteLine("\n\nPlease input the students percentage in numerical format only. No percentages or decimal points!." +
@@ -42,7 +42,7 @@ namespace Grading
 				Console.WriteLine("D");
 			}
 
-			else if (score < 59 && score >= 0)
+			else if (score <= 59 && score >= 0)
 			{
 				Console.WriteLine("F");
 			}
